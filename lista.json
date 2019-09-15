@@ -1,0 +1,223 @@
+{
+"locais": [{
+"item": "0",
+"base": "Purple",
+"basetype": "3D",
+"pearl": "Pure White",
+"wheeltype": "Benny's",
+"wheel": "None",
+"wheelcolor": "Pure White",
+"car": "Dominator (FutureShock)",
+"foto": "R.drawable.dominator3_purple"
+}, {
+"item": "1",
+"base": "Orange",
+"basetype": "3D",
+"pearl": "Secret Gold",
+"wheeltype": "Benny's",
+"wheel": "None",
+"wheelcolor": "Pure White",
+"car": "Buccaneer (Custom)",
+"foto": "R.drawable.buccaneer2_orange"
+ }, {
+"item": "2",
+"base": "Pink",
+"basetype": "3D",
+"pearl": "Pure White",
+"wheeltype": "Benny's",
+"wheel": "None",
+"wheelcolor": "Pure White",
+"car": "Coquette Classic",
+"foto": "R.drawable.coquette2_pink"
+}, {
+"item": "3",
+"base": "Blue",
+"basetype": "3D",
+"pearl": "Fluro Blue",
+"wheeltype": "Benny's",
+"wheel": "None",
+"wheelcolor": "Pure White",
+"car": "Blista Compact",
+"foto": "R.drawable.blista2_blue"
+}, {
+"item": "4",
+"base": "Pink",
+"basetype": "3D",
+"pearl": "Pure White",
+"wheeltype": "Benny's",
+"wheel": "None",
+"wheelcolor": "Pure White",
+"car": "Buccaneer",
+"foto": "R.drawable.buccaneer_pink"
+}, {
+"item": "5",
+"base": "Blue",
+"basetype": "3D",
+"pearl": "Unknown",
+"wheeltype": "Regular",
+"wheel": "None",
+"wheelcolor": "Pure White",
+"car": "Futo",
+"foto": "R.drawable.futo_blue"
+}, {
+"item": "6",
+"base": "Blue",
+"basetype": "3D",
+"pearl": "Fluro Blue",
+"wheeltype": "Benny's",
+"wheel": "Big Dogs",
+"wheelcolor": "Pure White",
+"car": "Granger",
+"foto": "R.drawable.granger_blue"
+}, {
+"item": "7",
+"base": "Green",
+"basetype": "3D",
+"pearl": "Fluro Blue",
+"wheeltype": "Benny's",
+"wheel": "Psycho-Delic",
+"wheelcolor": "Pure White",
+"car": "Phoenix",
+"foto": "R.drawable.phoenix_green"
+}, {
+"item": "8",
+"base": "Orange",
+"basetype": "3D",
+"pearl": "Secret Gold",
+"wheeltype": "Benny's",
+"wheel": "Psycho-Delic",
+"wheelcolor": "Pure White",
+"car": "Tampa",
+"foto": "R.drawable.tampa_orange"
+}, {
+"item": "9",
+"base": "Orange",
+"basetype": "3D",
+"pearl": "Pure White",
+"wheeltype": "Benny's",
+"wheel": "None",
+"wheelcolor": "Pure White",
+"car": "Vamos",
+"foto": "R.drawable.vamos_orange"
+}, {
+"item": "10",
+"base": "Purple",
+"basetype": "3D",
+"pearl": "None",
+"wheeltype": "Benny's",
+"wheel": "Psycho-Delic",
+"wheelcolor": "Pure White",
+"car": "Insurgent Pick-Up",
+"foto": "R.drawable.insurgent2_purple"
+}, {
+"item": "11",
+"base": "Gray",
+"basetype": "3D",
+"pearl": "Pure White",
+"wheeltype": "Benny's",
+"wheel": "Clean",
+"wheelcolor": "Pure White",
+"car": "Buccaneer",
+"foto": "R.drawable.buccaneer_gray"
+}, {
+"item": "12",
+"base": "Purple",
+"basetype": "3D",
+"pearl": "Fluro Blue",
+"wheeltype": "None",
+"wheel": "None",
+"wheelcolor": "Pure White",
+"car": "Coquette Classic",
+"foto": "R.drawable.coquette2_purple"
+ }, {
+"item": "13",
+"base": "Rose Gold",
+"basetype": "3D",
+"pearl": "Secret Gold",
+"wheeltype": "None",
+"wheel": "None",
+"wheelcolor": "Pure White",
+"car": "Mesa (Merryweather)",
+"foto": "R.drawable.mesa2_brown"
+ }, {
+"item": "14",
+"base": "Purple",
+"basetype": "3D",
+"pearl": "Secret Gold",
+"wheeltype": "Benny's",
+"wheel": "Rod Me Up SC",
+"wheelcolor": "Pure White",
+"car": "Serrano",
+"foto": "R.drawable.serrano_purple"
+ }, {
+"item": "15",
+"base": "Purple",
+"basetype": "3D",
+"pearl": "Fluro Blue",
+"wheeltype": "Benny's",
+"wheel": "Rod Me Up SC",
+"wheelcolor": "Pure White",
+"car": "Eight",
+"foto": "R.drawable.eight_purple"
+ }, {
+"item": "16",
+"base": "Brown",
+"basetype": "3D",
+"pearl": "Secret Gold",
+"wheeltype": "None",
+"wheel": "None",
+"wheelcolor": "Pure White",
+"car": "Nero",
+"foto": "R.drawable.nero_brown"
+ }, {
+"item": "17",
+"base": "White",
+"basetype": "3D",
+"pearl": "Pure White",
+"wheeltype": "Benny's",
+"wheel": "Psycho-Delic",
+"wheelcolor": "Pure White",
+"car": "Schafter V12 (Armored)",
+"foto": "R.drawable.schafter5_white"
+ }, {
+"item": "18",
+"base": "Bronze",
+"basetype": "3D",
+"pearl": "Secret Gold",
+"wheeltype": "Benny's",
+"wheel": "Hazard",
+"wheelcolor": "Pure White",
+"car": "Gang Burrito",
+"foto": "R.drawable.burrito_brown"
+ }, {
+"item": "19",
+"base": "Cavalcade",
+"basetype": "3D",
+"pearl": "Pure White",
+"wheeltype": "Benny's",
+"wheel": "Psycho-Delic",
+"wheelcolor": "Pure White",
+"car": "Cavalcade",
+"foto": "R.drawable.cavalcade_green"
+ }, {
+"item": "20",
+"base": "Blue",
+"basetype": "3D",
+"pearl": "Pure White",
+"wheeltype": "None",
+"wheel": "None",
+"wheelcolor": "Pure White",
+"car": "Hakuchou Drag",
+"foto": "R.drawable.hakuchou2_blue"
+ }, {
+"item": "21",
+"base": "Green",
+"basetype": "3D",
+"pearl": "Fluro Blue",
+"wheeltype": "None",
+"wheel": "None",
+"wheelcolor": "Pure White",
+"car": "Jester (Stock)",
+"foto": "R.drawable.jester2_green"
+}]
+}
